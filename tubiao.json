@@ -1,0 +1,9 @@
+{
+"name":"Fileball Icon", 
+"description":"by 暮秋", 
+"icons":
+    [
+        {"name":"STARK.png", "url":"https://raw.githubusercontent.com/bzy741/Filball/main/STARK.png"},
+        {"name":"STARK1.png", "url":"https://raw.githubusercontent.com/bzy741/Filball/main/STARK1.png"},
+    ]
+}
